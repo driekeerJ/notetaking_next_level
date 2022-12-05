@@ -1,0 +1,24 @@
+# Topics to cover
+- [ ] Markdown
+- [ ] Command pallet
+- [ ] Hotkeys
+- [ ] YAGNI
+- [ ] Backlinks
+	- [ ] Alias |
+- [ ] Graph view
+- [ ] Templater
+- [ ] OKR
+	- [ ] Principes
+	- [ ] OKR
+	- [ ] Wekelijks
+	- [ ] Dagelijks
+	- [ ] QuickAdd -> logging
+- [ ] Advanced slides
+- [ ] Day planner
+- [ ] Dataview
+- [ ] Tasks
+- [ ] Tracker
+- [ ] Deu date
+- [ ] Journalling
+	- [ ] Tracking
+	- [ ] Random questions
