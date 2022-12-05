@@ -1,0 +1,3 @@
+Microsoft Azure, often referred to as Azure (/ˈæʒər, ˈeɪʒər/ AZH-ər, AY-zhər, UK also /ˈæzjʊər, ˈeɪzjʊər/ AZ-ure, AY-zure), is a cloud computing platform operated by Microsoft for application management via Microsoft-managed data centers. Microsoft Azure has multiple capabilities such as software as a service (SaaS), platform as a service (PaaS) and infrastructure as a service (IaaS) and supports many different programming languages, tools, and frameworks, including both Microsoft-specific and third-party software and systems.
+
+[[PELI]], [[Scrum]], [[Agile]], [[Cloud]], [[Repo]], [[Repository]], [[GIT]]

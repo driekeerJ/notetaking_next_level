@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65b285885c7ebabd",
+            "id": "c4fdd2c1c0c1f9a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note taking next level.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04dd926bc0a87a4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note taking next level.md",
+                "file": "Daily/2022-12-04.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note taking next level.md",
+                "file": "Daily/2022-12-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note taking next level.md",
+                "file": "Daily/2022-12-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,20 +125,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note taking next level.md"
+                "file": "Daily/2022-12-04.md"
               }
             }
+          },
+          {
+            "id": "94b618c41b53a5f5",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "04dd926bc0a87a4d",
+  "active": "c4fdd2c1c0c1f9a9",
   "lastOpenFiles": [
-    "README.md",
-    "Note taking next level.md"
+    "Principles/principle-I share what I learn.md",
+    "Review/Objectives/Give 2 great presentations for the TechHouseSquad.md",
+    "Weekly/2022-W50.md",
+    "Daily/2022-12-03.md",
+    "Daily/2022-12-04.md",
+    "Daily/2022-12-05.md",
+    "Weekly/2022-W49.md",
+    "Untitled.md",
+    "Note taking next level.md",
+    "Day Planners/Day Planner-20221205.md"
   ]
 }

@@ -1,12 +1,17 @@
 # Topics to cover
 - [ ] Markdown
 - [ ] Command pallet
+- [ ] Quick switcher
 - [ ] Hotkeys
 - [ ] YAGNI
 - [ ] Backlinks
 	- [ ] Alias |
 - [ ] Graph view
 - [ ] Templater
+	- [ ] suggester
+	- [ ] prompt
+	- [ ] move
+	- [ ] 
 - [ ] OKR
 	- [ ] Principes
 	- [ ] OKR
@@ -22,3 +27,5 @@
 - [ ] Journalling
 	- [ ] Tracking
 	- [ ] Random questions
+
+[[Note taking]], [[Presentation]], [[Obsidian]]

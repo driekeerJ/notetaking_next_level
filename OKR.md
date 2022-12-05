@@ -1,0 +1,5 @@
+The acronym OKR stands for Objectives and Key Results, a popular goal management framework that helps companies implement and execute strategy. The benefits of the framework include a better focus on results that matter, increased transparency, and better (strategic) alignment. OKR achieves this by organizing employees and the work they do around achieving common Objectives.
+
+An OKR consists of an **Objective**, which tells you where to go, and several **Key Results**, which are the results you need to achieve to get to your Objective. **Initiatives** are all the projects and tasks that will help you achieve your Key Results.
+
+The framework includes a number of rules which help employees prioritize, align, and measure the outcome of their efforts. OKR helps companies bridge the gap between strategy and execution and move from an output- to an outcome-based approach to work.
