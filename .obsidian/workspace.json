@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2022-12-04.md",
+                "file": "Azure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f4932b188fe5efd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Template dataview example.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fde13d3abafe067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataview examples/OpenAI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfea7d46a5722fcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataview examples/OpenAI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b42dcf7d2d8fbd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataview examples/Midjourney.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2022-12-04.md",
+                "file": "Dataview examples/Midjourney.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2022-12-04.md",
+                "file": "Dataview examples/Midjourney.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2022-12-04.md"
+                "file": "Dataview examples/Midjourney.md"
               }
             }
           },
@@ -144,17 +193,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c4fdd2c1c0c1f9a9",
+  "active": "3b42dcf7d2d8fbd4",
   "lastOpenFiles": [
+    "Dataview.md",
+    "Dataview examples/Midjourney.md",
+    "Dataview examples/OpenAI.md",
+    "Templates/Template dataview example.md",
+    "Azure.md",
+    "Daily/2022-12-04.md",
     "Principles/principle-I share what I learn.md",
     "Review/Objectives/Give 2 great presentations for the TechHouseSquad.md",
     "Weekly/2022-W50.md",
-    "Daily/2022-12-03.md",
-    "Daily/2022-12-04.md",
-    "Daily/2022-12-05.md",
-    "Weekly/2022-W49.md",
-    "Untitled.md",
-    "Note taking next level.md",
-    "Day Planners/Day Planner-20221205.md"
+    "Daily/2022-12-03.md"
   ]
 }
