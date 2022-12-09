@@ -11,4 +11,3 @@ scale-mood: <%tp.system.suggester([0,1,2,3,4,5,6,7,8,9,10], [0,1,2,3,4,5,6,7,8,9
 
 ## Weekly goals
 ![[<% tp.date.now("YYYY") %>-W<% tp.date.now("ww"), %>#Goals]]
-

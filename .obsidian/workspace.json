@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "be94a339d74dd7de",
+        "id": "9c61653dae834540",
         "type": "tabs",
         "children": [
           {
-            "id": "c4fdd2c1c0c1f9a9",
+            "id": "0cf551d05686c5d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Azure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f4932b188fe5efd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Template dataview example.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fde13d3abafe067",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataview examples/OpenAI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfea7d46a5722fcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataview examples/OpenAI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b42dcf7d2d8fbd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataview examples/Midjourney.md",
+                "file": "Note taking next level.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview examples/Midjourney.md",
+                "file": "Note taking next level.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dataview examples/Midjourney.md",
+                "file": "Note taking next level.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview examples/Midjourney.md"
+                "file": "Note taking next level.md"
               }
             }
           },
@@ -191,19 +142,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "3b42dcf7d2d8fbd4",
+  "active": "0cf551d05686c5d9",
   "lastOpenFiles": [
-    "Dataview.md",
-    "Dataview examples/Midjourney.md",
-    "Dataview examples/OpenAI.md",
-    "Templates/Template dataview example.md",
-    "Azure.md",
-    "Daily/2022-12-04.md",
-    "Principles/principle-I share what I learn.md",
-    "Review/Objectives/Give 2 great presentations for the TechHouseSquad.md",
-    "Weekly/2022-W50.md",
-    "Daily/2022-12-03.md"
+    "Giving THS presentation.md",
+    "Untitled Kanban.md",
+    "Kanban board.md",
+    "Note taking next level.md",
+    "Templates/Basic daily.md",
+    "Templates/Basic weekly.md",
+    "Templates/Template yearly OKR objective.md",
+    "Templates/Core principle template.md",
+    "Daily/2022/12/2022-12-08.md",
+    "Weekly/2022-W50.md"
   ]
 }

@@ -3,7 +3,13 @@ theme: league
 bg: "[[output.gif]]"
 ---
 
+---
+
 ![[Pasted image 20221205133629.png]]
+
+---
+
+![[Pasted image 20221209115617.png]]
 
 ---
 Obsidian<!-- element style="font-size: 250px"-->
@@ -16,5 +22,11 @@ Obsidian<!-- element style="font-size: 250px"-->
 
 ---
 ![[Pasted image 20221205134959.png]]
+
+---
+There is more!<!-- element style="font-size: 120px"-->
+
+---
+![[Pasted image 20221209082318.png]]
 
 ---
